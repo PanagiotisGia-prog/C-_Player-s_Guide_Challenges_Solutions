@@ -1,8 +1,8 @@
-# CSharp Player's Guide – Challenge Solutions
+# C# Player's Guide – Challenge Solutions
 
-##About This Repository
+## About This Repository
 
-###This repository contains my personal solutions to the challenges from the book The C# Player's Guide by RB Whitaker.
+### This repository contains my personal solutions to the challenges from the book The C# Player's Guide by RB Whitaker.
 
 Important Notes:
 -----------------------------------------------------------------------------------------------------------------------
