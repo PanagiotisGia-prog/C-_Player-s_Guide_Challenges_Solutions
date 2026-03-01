@@ -1,4 +1,4 @@
-#C# Player's Guide – Challenge Solutions
+# CSharp Player's Guide – Challenge Solutions
 
 ##About This Repository
 
