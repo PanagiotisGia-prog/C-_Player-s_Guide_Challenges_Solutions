@@ -1,0 +1,14 @@
+D:\CSharp\PlayersGuide\bin\Debug\net10.0\PlayersGuide.exe
+D:\CSharp\PlayersGuide\bin\Debug\net10.0\PlayersGuide.deps.json
+D:\CSharp\PlayersGuide\bin\Debug\net10.0\PlayersGuide.runtimeconfig.json
+D:\CSharp\PlayersGuide\bin\Debug\net10.0\PlayersGuide.dll
+D:\CSharp\PlayersGuide\bin\Debug\net10.0\PlayersGuide.pdb
+D:\CSharp\PlayersGuide\obj\Debug\net10.0\PlayersGuide.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\PlayersGuide\obj\Debug\net10.0\PlayersGuide.AssemblyInfoInputs.cache
+D:\CSharp\PlayersGuide\obj\Debug\net10.0\PlayersGuide.AssemblyInfo.cs
+D:\CSharp\PlayersGuide\obj\Debug\net10.0\PlayersGuide.csproj.CoreCompileInputs.cache
+D:\CSharp\PlayersGuide\obj\Debug\net10.0\PlayersGuide.dll
+D:\CSharp\PlayersGuide\obj\Debug\net10.0\refint\PlayersGuide.dll
+D:\CSharp\PlayersGuide\obj\Debug\net10.0\PlayersGuide.pdb
+D:\CSharp\PlayersGuide\obj\Debug\net10.0\PlayersGuide.genruntimeconfig.cache
+D:\CSharp\PlayersGuide\obj\Debug\net10.0\ref\PlayersGuide.dll
