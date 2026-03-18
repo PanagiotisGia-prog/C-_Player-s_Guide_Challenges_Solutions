@@ -1,0 +1,14 @@
+D:\SharpP\PlayersGuide\SimulaSoup\bin\Debug\net10.0\SimulaSoup.exe
+D:\SharpP\PlayersGuide\SimulaSoup\bin\Debug\net10.0\SimulaSoup.deps.json
+D:\SharpP\PlayersGuide\SimulaSoup\bin\Debug\net10.0\SimulaSoup.runtimeconfig.json
+D:\SharpP\PlayersGuide\SimulaSoup\bin\Debug\net10.0\SimulaSoup.dll
+D:\SharpP\PlayersGuide\SimulaSoup\bin\Debug\net10.0\SimulaSoup.pdb
+D:\SharpP\PlayersGuide\SimulaSoup\obj\Debug\net10.0\SimulaSoup.GeneratedMSBuildEditorConfig.editorconfig
+D:\SharpP\PlayersGuide\SimulaSoup\obj\Debug\net10.0\SimulaSoup.AssemblyInfoInputs.cache
+D:\SharpP\PlayersGuide\SimulaSoup\obj\Debug\net10.0\SimulaSoup.AssemblyInfo.cs
+D:\SharpP\PlayersGuide\SimulaSoup\obj\Debug\net10.0\SimulaSoup.csproj.CoreCompileInputs.cache
+D:\SharpP\PlayersGuide\SimulaSoup\obj\Debug\net10.0\SimulaSoup.dll
+D:\SharpP\PlayersGuide\SimulaSoup\obj\Debug\net10.0\refint\SimulaSoup.dll
+D:\SharpP\PlayersGuide\SimulaSoup\obj\Debug\net10.0\SimulaSoup.pdb
+D:\SharpP\PlayersGuide\SimulaSoup\obj\Debug\net10.0\SimulaSoup.genruntimeconfig.cache
+D:\SharpP\PlayersGuide\SimulaSoup\obj\Debug\net10.0\ref\SimulaSoup.dll
