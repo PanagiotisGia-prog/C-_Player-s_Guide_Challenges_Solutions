@@ -1,0 +1,14 @@
+D:\SharpP\PlayersGuide\VinFletchersArrows\bin\Debug\net10.0\VinFletchersArrows.exe
+D:\SharpP\PlayersGuide\VinFletchersArrows\bin\Debug\net10.0\VinFletchersArrows.deps.json
+D:\SharpP\PlayersGuide\VinFletchersArrows\bin\Debug\net10.0\VinFletchersArrows.runtimeconfig.json
+D:\SharpP\PlayersGuide\VinFletchersArrows\bin\Debug\net10.0\VinFletchersArrows.dll
+D:\SharpP\PlayersGuide\VinFletchersArrows\bin\Debug\net10.0\VinFletchersArrows.pdb
+D:\SharpP\PlayersGuide\VinFletchersArrows\obj\Debug\net10.0\VinFletchersArrows.GeneratedMSBuildEditorConfig.editorconfig
+D:\SharpP\PlayersGuide\VinFletchersArrows\obj\Debug\net10.0\VinFletchersArrows.AssemblyInfoInputs.cache
+D:\SharpP\PlayersGuide\VinFletchersArrows\obj\Debug\net10.0\VinFletchersArrows.AssemblyInfo.cs
+D:\SharpP\PlayersGuide\VinFletchersArrows\obj\Debug\net10.0\VinFletchersArrows.csproj.CoreCompileInputs.cache
+D:\SharpP\PlayersGuide\VinFletchersArrows\obj\Debug\net10.0\VinFletchersArrows.dll
+D:\SharpP\PlayersGuide\VinFletchersArrows\obj\Debug\net10.0\refint\VinFletchersArrows.dll
+D:\SharpP\PlayersGuide\VinFletchersArrows\obj\Debug\net10.0\VinFletchersArrows.pdb
+D:\SharpP\PlayersGuide\VinFletchersArrows\obj\Debug\net10.0\VinFletchersArrows.genruntimeconfig.cache
+D:\SharpP\PlayersGuide\VinFletchersArrows\obj\Debug\net10.0\ref\VinFletchersArrows.dll
