@@ -1,0 +1,14 @@
+D:\SharpP\PlayersGuide\VinsTrouble\obj\Debug\net10.0\VinsTrouble.GeneratedMSBuildEditorConfig.editorconfig
+D:\SharpP\PlayersGuide\VinsTrouble\obj\Debug\net10.0\VinsTrouble.AssemblyInfoInputs.cache
+D:\SharpP\PlayersGuide\VinsTrouble\obj\Debug\net10.0\VinsTrouble.AssemblyInfo.cs
+D:\SharpP\PlayersGuide\VinsTrouble\obj\Debug\net10.0\VinsTrouble.csproj.CoreCompileInputs.cache
+D:\SharpP\PlayersGuide\VinsTrouble\bin\Debug\net10.0\VinsTrouble.exe
+D:\SharpP\PlayersGuide\VinsTrouble\bin\Debug\net10.0\VinsTrouble.deps.json
+D:\SharpP\PlayersGuide\VinsTrouble\bin\Debug\net10.0\VinsTrouble.runtimeconfig.json
+D:\SharpP\PlayersGuide\VinsTrouble\bin\Debug\net10.0\VinsTrouble.dll
+D:\SharpP\PlayersGuide\VinsTrouble\bin\Debug\net10.0\VinsTrouble.pdb
+D:\SharpP\PlayersGuide\VinsTrouble\obj\Debug\net10.0\VinsTrouble.dll
+D:\SharpP\PlayersGuide\VinsTrouble\obj\Debug\net10.0\refint\VinsTrouble.dll
+D:\SharpP\PlayersGuide\VinsTrouble\obj\Debug\net10.0\VinsTrouble.pdb
+D:\SharpP\PlayersGuide\VinsTrouble\obj\Debug\net10.0\VinsTrouble.genruntimeconfig.cache
+D:\SharpP\PlayersGuide\VinsTrouble\obj\Debug\net10.0\ref\VinsTrouble.dll
