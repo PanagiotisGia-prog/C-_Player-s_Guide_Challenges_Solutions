@@ -1,0 +1,14 @@
+D:\SharpP\PlayersGuide\ThePropertiesOfArrows\obj\Debug\net10.0\ThePropertiesOfArrows.GeneratedMSBuildEditorConfig.editorconfig
+D:\SharpP\PlayersGuide\ThePropertiesOfArrows\obj\Debug\net10.0\ThePropertiesOfArrows.AssemblyInfoInputs.cache
+D:\SharpP\PlayersGuide\ThePropertiesOfArrows\obj\Debug\net10.0\ThePropertiesOfArrows.AssemblyInfo.cs
+D:\SharpP\PlayersGuide\ThePropertiesOfArrows\obj\Debug\net10.0\ThePropertiesOfArrows.csproj.CoreCompileInputs.cache
+D:\SharpP\PlayersGuide\ThePropertiesOfArrows\bin\Debug\net10.0\ThePropertiesOfArrows.exe
+D:\SharpP\PlayersGuide\ThePropertiesOfArrows\bin\Debug\net10.0\ThePropertiesOfArrows.deps.json
+D:\SharpP\PlayersGuide\ThePropertiesOfArrows\bin\Debug\net10.0\ThePropertiesOfArrows.runtimeconfig.json
+D:\SharpP\PlayersGuide\ThePropertiesOfArrows\bin\Debug\net10.0\ThePropertiesOfArrows.dll
+D:\SharpP\PlayersGuide\ThePropertiesOfArrows\bin\Debug\net10.0\ThePropertiesOfArrows.pdb
+D:\SharpP\PlayersGuide\ThePropertiesOfArrows\obj\Debug\net10.0\ThePropertiesOfArrows.dll
+D:\SharpP\PlayersGuide\ThePropertiesOfArrows\obj\Debug\net10.0\refint\ThePropertiesOfArrows.dll
+D:\SharpP\PlayersGuide\ThePropertiesOfArrows\obj\Debug\net10.0\ThePropertiesOfArrows.pdb
+D:\SharpP\PlayersGuide\ThePropertiesOfArrows\obj\Debug\net10.0\ThePropertiesOfArrows.genruntimeconfig.cache
+D:\SharpP\PlayersGuide\ThePropertiesOfArrows\obj\Debug\net10.0\ref\ThePropertiesOfArrows.dll
