@@ -1,0 +1,14 @@
+D:\SharpP\PlayersGuide\ArrowFactories\bin\Debug\net10.0\ArrowFactories.exe
+D:\SharpP\PlayersGuide\ArrowFactories\bin\Debug\net10.0\ArrowFactories.deps.json
+D:\SharpP\PlayersGuide\ArrowFactories\bin\Debug\net10.0\ArrowFactories.runtimeconfig.json
+D:\SharpP\PlayersGuide\ArrowFactories\bin\Debug\net10.0\ArrowFactories.dll
+D:\SharpP\PlayersGuide\ArrowFactories\bin\Debug\net10.0\ArrowFactories.pdb
+D:\SharpP\PlayersGuide\ArrowFactories\obj\Debug\net10.0\ArrowFactories.GeneratedMSBuildEditorConfig.editorconfig
+D:\SharpP\PlayersGuide\ArrowFactories\obj\Debug\net10.0\ArrowFactories.AssemblyInfoInputs.cache
+D:\SharpP\PlayersGuide\ArrowFactories\obj\Debug\net10.0\ArrowFactories.AssemblyInfo.cs
+D:\SharpP\PlayersGuide\ArrowFactories\obj\Debug\net10.0\ArrowFactories.csproj.CoreCompileInputs.cache
+D:\SharpP\PlayersGuide\ArrowFactories\obj\Debug\net10.0\ArrowFactories.dll
+D:\SharpP\PlayersGuide\ArrowFactories\obj\Debug\net10.0\refint\ArrowFactories.dll
+D:\SharpP\PlayersGuide\ArrowFactories\obj\Debug\net10.0\ArrowFactories.pdb
+D:\SharpP\PlayersGuide\ArrowFactories\obj\Debug\net10.0\ArrowFactories.genruntimeconfig.cache
+D:\SharpP\PlayersGuide\ArrowFactories\obj\Debug\net10.0\ref\ArrowFactories.dll

@@ -1,0 +1,136 @@
+using System.Runtime.CompilerServices;
+using System.Security.Cryptography.X509Certificates;
+
+public class Arrow
+{
+    // We made the fields private so the user can't access them through the main Program class
+    private string? _arrowHead;
+    private string? _fletching;
+    private float _shaft;
+
+    public string? ArrowHead { get => _arrowHead; private set => _arrowHead = value; }
+    public string? Fletching { get => _fletching; private set => _fletching = value; }
+    public float Shaft { get => _shaft; private set => _shaft = value; }
+
+    public Arrow(string arrowHead, string fletching, float shaft)
+    {
+        ArrowHead = arrowHead;
+        Fletching = fletching;
+        Shaft = shaft;
+    }
+
+    public static Arrow GetEliteArrow()
+    {
+        float fixedCost = (float)(10 + 10 + (95 * 0.05));
+        Console.ForegroundColor = ConsoleColor.DarkGreen;
+        Console.WriteLine($"The total cost for your arrow is {fixedCost} Gold");        
+        return new Arrow("Steel", "Plastic", 95f);
+    }
+
+    public static Arrow GetBegginerArrow()
+    {
+        float fixedCost = (float)(3 + 3 + (75 * 0.05));
+        Console.ForegroundColor = ConsoleColor.DarkGreen;        
+        Console.WriteLine($"The total cost for your arrow is {fixedCost} Gold");        
+        return new Arrow("Wood", "Goose", 75f);
+    }
+
+    public static Arrow GetMarksmanArrow()
+    {
+        float fixedCost = (float)(10 + 3 + (65 * 0.05));
+        Console.ForegroundColor = ConsoleColor.DarkGreen;
+        Console.WriteLine($"The total cost for your arrow is {fixedCost} Gold");
+        return new Arrow("Steel", "Goose", 65f);
+    }
+
+
+    /// <summary>
+    /// We calculate the total cost for the arrow depending on the materials the user choses
+    /// </summary>
+    /// <returns></returns>
+    public float GetCost()
+    {
+        float arrowHeadCost = 0f;
+        float fletchingCost = 0f;
+
+        while (arrowHeadCost <= 0f)
+        {
+            Console.ForegroundColor = ConsoleColor.Red;
+            Console.Write("Choose a material for the arrowhead: ");
+            _arrowHead = (Console.ReadLine() ?? string.Empty).ToLower().Trim();
+            switch(_arrowHead)
+            {
+                case "steel":
+                    arrowHeadCost = 10.0f;
+                break;
+
+                case "wood":
+                    arrowHeadCost = 3.0f;
+                break;
+
+                case "obsidiant":
+                    arrowHeadCost = 5.0f;
+                break;
+
+                default:
+                    Console.WriteLine("You need to choose an available material for the arrowHead.");
+                continue;
+            }
+        }
+
+        while (fletchingCost <= 0f)
+        {
+            Console.ForegroundColor = ConsoleColor.Blue;
+            Console.Write("Choose a material for the fletching: ");
+            _fletching = (Console.ReadLine() ?? string.Empty).ToLower().Trim();
+            switch(_fletching)
+            {
+                case "plastic":
+                    fletchingCost = 10.0f;
+                break;
+
+                case "turkey":
+                    fletchingCost = 5.0f;
+                break;
+
+                case "goose":
+                    fletchingCost = 3.0f;
+                break;
+
+                default:
+                    Console.WriteLine("You need to choose an available material for the fletching.");
+                continue;
+            }
+        }
+
+        while(_shaft < 60.0f || _shaft > 100.0f)
+        {
+            Console.ForegroundColor = ConsoleColor.Magenta;
+            Console.Write("How many centimeters do you want the shaft to be: ");
+            try
+            {
+                _shaft = Convert.ToSingle(Console.ReadLine());
+            }
+            catch (FormatException ex)
+            {
+                Console.WriteLine("Please put a valid number." + ex.Message);
+                continue;
+            }
+
+            if (_shaft < 60.0f || _shaft > 100.0f)
+            {
+                Console.WriteLine("Sorry the valid centimeters for the shaft length are 60cm to 100cm.");
+                continue;
+            }
+        }
+        
+        float lengthCost = _shaft * 0.05f;
+
+        float totalCost = arrowHeadCost + fletchingCost + lengthCost;
+        
+        Console.ForegroundColor = ConsoleColor.Green;
+        Console.WriteLine($"The total cost for your arrow is {totalCost} Gold");
+        return totalCost;
+    } 
+
+}
